@@ -83,6 +83,10 @@
       "optional": true
     }
   },
+  "overrides": {
+    "react": "$react",
+    "react-dom": "$react-dom"
+  },
   "pnpm": {
     "overrides": {
       "vite": "6.3.5"
